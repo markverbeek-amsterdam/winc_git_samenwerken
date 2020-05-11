@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div class="cooked-recipe-ingredients">
 
 <div class="cooked-single-ingredient cooked-heading">Ingredients</div>
@@ -46,7 +45,8 @@
 <div itemprop="recipeIngredient" class="cooked-single-ingredient cooked-ingredient"><span class="cooked-ingredient-checkbox"> </span><span class="cooked-ing-name">Finely sliced radish</span></div>
 
 </div>
-=======
+
+
 Cook the noodles as per instructions on the back of the pack. 
 
 Put a non-stick wide bottomed pan on a high heat to heat up. 
@@ -60,4 +60,4 @@ Add the chopped scallions and peppers into the pan and cook for 2 minutes stirri
 Finely slice the second half of the red chilli. Garnish each serving with toasted sesame seeds, sliced chilli or finely sliced radish.
 
 Season with salt and pepper to your taste. Enjoy!
->>>>>>> a4fa7f04c812817c493142e30997a64fdf88878c
+
